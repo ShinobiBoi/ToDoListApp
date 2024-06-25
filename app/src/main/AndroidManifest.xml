@@ -20,7 +20,7 @@
         <activity
             android:name=".AddTaskActivity"
             android:exported="false"
-            android:label="Task"
+            android:label="Add Task"
             android:parentActivityName=".MainActivity"
             android:theme="@style/Theme.Material3.DayNight" />
         <activity
